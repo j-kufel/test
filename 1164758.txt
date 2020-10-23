@@ -1,0 +1,12 @@
+ls
+
+
+
+[B
+abort
+<
+>
+<>
+clear
+$
+exit
